@@ -6,9 +6,13 @@ I’m a junior at the University of Maryland studying **Electrical and Computer 
 - **Languages**: Python, C, Verilog
 - **Tech**: FPGA, Basys Boards, Arduino
 - **Hobbies**: PC building, phone repair, exploring consumer tech
+- **Fun fact**: I built my first PC at 13!
 
 ### Featured Projects
 - [**MPECWatch**](https://sbnmpc.astro.umd.edu/mpecwatch/): A data analysis tool for viewing observatory performance.
+
+## GitHub Stats
+![Taeg03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeg03&show_icons=true&theme=radical)
 
 ### Goals
 - Seeking a **Summer 2025 Internship or Research** in software or electrical engineering.
