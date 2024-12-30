@@ -8,7 +8,7 @@ I’m a junior at the University of Maryland studying **Electrical and Computer 
 - **Hobbies**: PC building, phone repair, exploring consumer tech
 - **Fun fact**: I built my first PC at 13!
 
-### Featured Projects
+### Featured Project
 - [**MPECWatch**](https://sbnmpc.astro.umd.edu/mpecwatch/): A data analysis tool for viewing observatory performance.
 
 ## GitHub Stats
