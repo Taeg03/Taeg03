@@ -15,7 +15,7 @@ I’m a junior at the University of Maryland studying **Electrical and Computer 
 ![Taeg03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeg03&show_icons=true&theme=radical)
 
 ### Goals
-- Seeking a **Summer 2025 Internship or Research** in software or electrical engineering.
+- Seeking a **Summer 2025 Internship or Research Position** in software or electrical engineering.
 - Aspiring to study abroad at **Carlos III de Madrid University** in Fall 2025.
 
 ### Let’s Connect
