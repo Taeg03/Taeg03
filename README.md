@@ -16,7 +16,7 @@ I’m a junior at the University of Maryland studying **Computer Engineering**, 
 
 ### Goals
 - Seeking a **Summer 2025 Internship or Research Position** in software or electrical engineering.
-- Aspiring to study abroad at **Carlos III de Madrid University** in Fall 2025.
+- Aspiring to study abroad at **Carlos de Madrid III University** in Fall 2025.
 
 ### Let’s Connect
 - [LinkedIn](https://linkedin.com/in/taegon-hibbitts)
