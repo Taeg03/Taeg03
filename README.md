@@ -1,6 +1,6 @@
 # Hi, I'm Taegon Hibbitts!
 
-I’m a junior at the University of Maryland studying **Computer Engineering**, passionate about building and troubleshooting tech, from PCs to foldable phones. Currently, I’m diving into **signals and systems**, **FPGA programming**, and **Verilog design**.
+I’m a senior at the University of Maryland studying **Computer Engineering**, passionate about building and troubleshooting tech, from PCs to foldable phones. Currently, I’m diving into **signals and systems**, **FPGA programming**, and **Verilog design**.
 
 ### Skills & Interests
 - **Languages**: Python, C, Verilog
