@@ -15,8 +15,8 @@ I’m a senior at the University of Maryland studying **Computer Engineering**, 
 ![Taeg03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeg03&show_icons=true&theme=radical)
 
 ### Goals
-- Seeking a **Summer 2025 Internship or Research Position** in software or electrical engineering.
-- Aspiring to study abroad at **Carlos de Madrid III University** in Fall 2025.
+- Seeking a **New Grad 2026 Full Time Position** in the hardware sector (looking into low-level engineering).
+- Accepted as an engineering exchange student at **Carlos de Madrid III University** in Fall 2025!
 
 ### Let’s Connect
 - [LinkedIn](https://linkedin.com/in/taegon-hibbitts)
