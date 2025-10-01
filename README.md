@@ -10,7 +10,7 @@ I’m a senior at the University of Maryland studying **Computer Engineering**, 
 
 ### Featured Project
 - [**MPECWatch**](https://sbnmpc.astro.umd.edu/mpecwatch/): A data analysis tool for viewing observatory performance.
-- [**Nextcloud Demos**]([https://sbnmpc.astro.umd.edu/mpecwatch/](https://taegon.ddns.net/index.php/s/zmtew9SaZ2Lo8D5): Check out some project demos hosted directly on my Nextcloud/Ubuntu Server.
+- [**Nextcloud Demos**](https://taegon.ddns.net/index.php/s/zmtew9SaZ2Lo8D5): Check out some project demos hosted directly on my Nextcloud/Ubuntu Server.
 
 ## GitHub Stats
 ![Taeg03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeg03&show_icons=true&theme=radical)
